@@ -12,6 +12,9 @@ body {
   margin: auto;
   background-color: white;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 .wrapper {
