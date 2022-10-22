@@ -177,6 +177,10 @@ body {
 }
 
 @media (max-width:477px) {
+
+  body {
+    width: 100%
+  };
   
   #hello{
     width: 100%;
